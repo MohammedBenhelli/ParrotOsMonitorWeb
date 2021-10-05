@@ -1,0 +1,1 @@
+docker run --rm -ti --network host -v $PWD/parrot:/parrot parrotsec/security
